@@ -1,0 +1,5 @@
+/home/feyzi/CLionProjects/UDP_Server_Client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/feyzi/CLionProjects/UDP_Server_Client/cmake-build-debug/CMakeFiles/UDP_Server.dir
+/home/feyzi/CLionProjects/UDP_Server_Client/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/feyzi/CLionProjects/UDP_Server_Client/cmake-build-debug/CMakeFiles/UDP_Client.dir
+/home/feyzi/CLionProjects/UDP_Server_Client/cmake-build-debug/CMakeFiles/DENM_CAM_Message.dir

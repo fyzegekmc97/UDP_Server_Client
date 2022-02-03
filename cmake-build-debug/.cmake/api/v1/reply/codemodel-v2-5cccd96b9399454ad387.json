@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "UDP_Server_Client",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DENM_CAM_Message::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DENM_CAM_Message-Debug-056f39e8e86a20c049dc.json",
+					"name" : "DENM_CAM_Message",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UDP_Client::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UDP_Client-Debug-3eccd2d481d780b9cdc1.json",
+					"name" : "UDP_Client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UDP_Server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UDP_Server-Debug-e6153f082a9f2c506918.json",
+					"name" : "UDP_Server",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/feyzi/CLionProjects/UDP_Server_Client/cmake-build-debug",
+		"source" : "/home/feyzi/CLionProjects/UDP_Server_Client"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
